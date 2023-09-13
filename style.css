@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+}
+.odd{
+    color: red;
+    font-family: NotoLB;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    border-left: 10px solid green;
+}
+.even{
+    color: rgb(98, 158, 158);
+    border-bottom: 3px solid yellow;
+}
+#h1{
+    color: #856c14;
+    border: 3px solid black;
+    border-radius: 20px;
+}
+@font-face{
+    src: url(fonts/NotoSansLinearB-Regular.ttf);
+    font-family: NotoLB;
+}
+h1{
+    text-shadow: 3px 3px 5px red;
+}
+#box1{
+    width: 100px;
+    height: 100px;
+    background-color: white;
+    box-shadow: 3px 3px 5px blue;
+}
