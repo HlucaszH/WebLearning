@@ -2,7 +2,7 @@
 <h3>Progress Tracker: HTML, CSS, and JavaScript</h1>
 Welcome to the Progress Tracker repository! This space has been created to document and monitor the development of my skills in HTML, CSS, and, hopefully, JavaScript. Here, you will find a record of my journey as I learn and grow in web development.
 
-<h>About</h3>
+<h3>About</h3>
 As an aspiring web developer, I believe in the importance of continuous improvement. This repository serves as a visual representation of my progress in mastering the core technologies that power the web.
 
 <h3>Contents</h3>
