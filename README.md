@@ -22,4 +22,4 @@ This repository serves multiple purposes:
 <li>Portfolio: As I create more advanced projects, this will become a portfolio of my work.</li>
 </ul>
 <h3>How to Navigate</h3>
-Feel free to explore the contents of this repository at your own pace. You can use the commit history and project folders to see my progression from basic concepts to more complex web development tasks.
+Feel free to explore the contents of this repository at your own pace. You can use the commit history and project folders to see my progression from basic concepts to more complex web development tasks, though there is nothing complex for now.
