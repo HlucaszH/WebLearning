@@ -21,3 +21,14 @@
 .tabtwo{
     text-align: center;
 }
+.lyrics{
+    text-align: center;
+}
+.audio-container {
+    display: flex;
+    justify-content: center;
+    align-items: center 
+  }
+  body{
+    background-color: hsl(34, 20%, 93%);
+  }
