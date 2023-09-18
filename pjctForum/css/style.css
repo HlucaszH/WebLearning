@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    font-size: xxx-large;
+}
+body{
+    background-color: beige;
+    font-family: Crossaint;
+}
+@font-face{
+    font-family: Crossaint;
+    src: url(../../fonts/CroissantOne-Regular.ttf);
+}
+body:not(h1){
+    font-size: 20px;
+}
