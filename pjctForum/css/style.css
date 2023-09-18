@@ -38,6 +38,10 @@ button{
     margin: auto;
     border: solid 1px;
 }
+#file-chosen{
+    margin-left: 0.3rem;
+    font-family: Crossaint;
+  }
 hr{
     border: 1px solid black;
 }
