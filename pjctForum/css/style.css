@@ -13,3 +13,20 @@ body{
 body:not(h1){
     font-size: 20px;
 }
+.submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    scale: 2;
+}
+.file{
+    background-color: white;
+    cursor: pointer;
+    padding: 0.5rem;
+    border-radius: 0.6rem;
+    cursor: pointer;
+    margin-top: 1rem;
+    border: solid;
+    border-width: 1px;
+}
