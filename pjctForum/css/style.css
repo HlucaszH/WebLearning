@@ -8,7 +8,7 @@ h1::first-letter{
     font-size: 70px;
 }
 body{
-    background-color: beige;
+    background: linear-gradient(hsl(60, 14%, 68%), hsl(0, 19%, 82%), hsl(60, 14%, 68%));
     font-family: Crossaint;
 }
 @font-face{
