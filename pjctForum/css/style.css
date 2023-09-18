@@ -12,21 +12,27 @@ body{
 }
 body:not(h1){
     font-size: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
 }
-.submit{
+button{
     display: flex;
     justify-content: center;
     align-items: center;
     margin: auto;
     scale: 2;
+    background-color: white;
+    border-radius: 0.3rem;
+    border-width: 1px;
 }
 .file{
-    background-color: white;
-    cursor: pointer;
     padding: 0.5rem;
-    border-radius: 0.6rem;
     cursor: pointer;
-    margin-top: 1rem;
-    border: solid;
-    border-width: 1px;
+    background-color: white;
+    border-radius: 0.3rem;
+    margin: auto;
+    border: solid 1px;
+}
+hr{
+    border: 1px solid black;
 }
