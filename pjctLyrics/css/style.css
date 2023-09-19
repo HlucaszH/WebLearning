@@ -39,3 +39,6 @@ body{
     font-family: Crossaint;
     src: url(../../fonts/CroissantOne-Regular.ttf);
 }
+hr{
+    border: 1px solid hsl(0, 0%, 25%);
+}
