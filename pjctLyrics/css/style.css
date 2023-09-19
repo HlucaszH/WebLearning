@@ -3,7 +3,7 @@
 }
 .gallery{
     display: inline-block;
-    border: 1px solid hsl(0, 0%, 60%);
+    border: 2px solid hsl(0, 0%, 60%);
     margin: 5px;
     width: 200px;
 }
@@ -12,7 +12,7 @@
     text-align: center;
 }
 .gallery:hover{
-    border: 1px solid hsl(0, 0%, 20%);
+    border: 2px solid hsl(0, 0%, 20%);
 }
 .gallery img{
     width: 100%;
@@ -30,4 +30,12 @@
 .audio-container {
     display: flex;
     justify-content: center;
+}
+body{
+    background-color: hsl(32, 54%, 93%);
+    font-family: Crossaint;
+}
+@font-face {
+    font-family: Crossaint;
+    src: url(../../fonts/CroissantOne-Regular.ttf);
 }
