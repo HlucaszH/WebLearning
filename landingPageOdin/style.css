@@ -130,3 +130,44 @@ footer{
 #mainfour{
     padding: 36px;
 }
+#mainone{
+    padding: 36px;
+    background-color: #1F2937;
+}
+.heroabsolute{
+    margin: 50px;
+    display: flex;
+}
+.herobox{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gray;
+    color: white;
+}
+.hero{
+    flex: 1;
+}
+.herotitle{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.herosubtxt{
+    font-size: 18px;
+    color: #a6a8ac;
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+.buttonup{
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #3882F6;
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
