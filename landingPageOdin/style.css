@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    font-family: Roboto;
+    font-family: serif;
 }
 footer{
     background-color: #1F2937;
@@ -159,8 +159,8 @@ footer{
 .herosubtxt{
     font-size: 18px;
     color: #a6a8ac;
-    margin-bottom: 3px;
-    margin-top: 3px;
+    margin-bottom: 5px;
+    margin-top: 5px;
 }
 .buttonup{
     padding: 5px;
