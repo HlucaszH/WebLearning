@@ -90,3 +90,43 @@ footer{
 .author::before{
     content: "\2014\0020";
 }
+.buttonbox{
+    max-width: 800px;
+    margin: 36px;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+    background-color: #3882F6;
+    border-radius: 7px;
+    color: #c7c7c7;
+}
+.action{
+    display: flex;
+    flex-direction: column;
+}
+.buttondiv{
+    align-items: center;
+    display: flex;
+}
+.buttontext{
+    margin: 0px;
+    margin-left: 50px;
+}
+.buttondown{
+    padding: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    background-color: #3882F6;
+    color: white;
+    border-color: white;
+    border-radius: 5px;
+    margin-right: 50px;
+}
+#txth{
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+#mainfour{
+    padding: 36px;
+}
