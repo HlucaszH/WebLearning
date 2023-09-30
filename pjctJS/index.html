@@ -8,6 +8,8 @@
 <body>
     <h1>Hmm</h1>
     <p id="multi"></p>
+    <h2>Slice, ziuum</h4>
+    <p id="slices"></p>
     <script>
         console.log("Hello, World!");
         console.log("Hmm");
@@ -33,6 +35,9 @@
         console.log(b);
         const newline = "One day you finally knew\nwhat you had to do, and began,";
         console.log(newline);
+        let text = "Apple, Banana, Kiwi";
+        let part = text.slice(7)
+        document.getElementById("slices").innerHTML = part;
     </script>
 </body>
 </html>
